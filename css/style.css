@@ -81,6 +81,8 @@
     padding: 154px 0 179px 0;
     background: url(../assets/hero-bg.png);
     background-repeat: no-repeat;
+      background-position: center;
+    /* background-size: cover; */
 }
 
 .banner-container  h1{
